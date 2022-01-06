@@ -30,5 +30,6 @@ a.unstyled_link {
 }
 
 #numb_picture {
-    height: 30vh;
+    width: auto;
+    height: 250px;
 }
